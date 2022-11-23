@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer con formación como Diseñador y Desarrollador Web. Experiencia <br>trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector. Busco una <br>oportunidad laboral donde pueda compartir y aumentar mis conocimientos. Con <br>pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y <br>autonomía.
+Actaulmente  desarrolló como Full Stack Developer <br>trabajando en Node, React, Redux, PostgresSQL entre otras tecnologías.Actualmente busco un trabajo remoto a tiempo parcial o tiempo completo que me ayude a salir adelante como persona,<br> donde pueda compartir y aumentar mis conocimientos. Con <br>dedicación, proactividad, colaboración, comunicación y una actitud autodidacta<br>.
 
 
 ## 🌐 Socials:
