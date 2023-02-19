@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actaulmente  desarrolló como Full Stack Developer <br>trabajando en Node, React, Redux, PostgresSQL entre otras tecnologías.<br>Siempre me gusta estar donde pueda compartir y aumentar mis conocimientos. Con <br>dedicación, proactividad, colaboración, comunicación y una actitud autodidacta.
+Actualmente  desarrolló como Full Stack Developer <br>trabajando en Node, React, Redux, PostgresSQL entre otras tecnologías.<br>Siempre me gusta estar donde pueda compartir y aumentar mis conocimientos. Con <br>dedicación, proactividad, colaboración, comunicación y una actitud autodidacta.
 
 
 ## 🌐 Socials:
